@@ -1,0 +1,45 @@
+#lateral-box {
+    width: 290px;
+    height: 440px;
+    background-color: #2d3033;
+    border-radius: 10px;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+}
+
+.general-title {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+#global-title {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.subitem {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#cases {
+    color: #f5eea2;
+}
+
+#deaths {
+    color: #ff4f68;
+}
+
+#recovered {
+    color: #6ce890;
+}

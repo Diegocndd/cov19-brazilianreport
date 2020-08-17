@@ -1,0 +1,57 @@
+#data-box {
+    width: 710px;
+    height: 450px;
+    background-color: #2d3033;
+    border-radius: 10px;
+    padding-top: 6px;
+    padding-left: 15px;
+}
+
+#title { 
+    font-size: 20px;
+    color: #fff;
+    font-weight: 600;
+}
+
+.first-row { 
+    color: white; 
+    font-weight: 700;
+}
+
+td { padding-right: 20px; }
+
+table { text-align: left; }
+
+#cases-column { color: #f5eea2 }
+
+#death-column { color: #ff4f68 }
+
+#recovered-column { color: #6ce890 }
+
+#suspect-column { color: #f8b068 }
+
+#fst-column { 
+    width: 260px;
+    color: #fff;
+}
+
+.other-column{ width: 100px; }
+
+#scroll-data {
+    overflow-y: scroll;
+    width: 686px;
+    height: 330px;
+}
+
+#scroll-data::-webkit-scrollbar-track {
+    background-color: #35383c;
+}
+
+#scroll-data::-webkit-scrollbar {
+    width: 6px;
+    background: #35393c;
+}
+
+#scroll-data::-webkit-scrollbar-thumb {
+    background: #aeacac;
+}

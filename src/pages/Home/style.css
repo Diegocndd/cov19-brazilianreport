@@ -1,0 +1,26 @@
+#dashboard {
+    background-color: #181b1f;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#left-container {
+    margin-top: 20px;
+}
+
+#right-container {
+    display: flex;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#world-box {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
