@@ -1,9 +1,23 @@
 #title-state {
     color: #fff;
-    font-size: 20px;
+    font-size: 55px;
+    font-weight: 800;
 }
 
 #cases-state {
-    color: #fff;
-    font-size: 15px;
+    color: #f5eea2;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#deaths-state {
+    color: #ff4f68;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#suspects-state {
+    color: #f8b068;
+    font-size: 20px;
+    font-weight: 600;
 }
